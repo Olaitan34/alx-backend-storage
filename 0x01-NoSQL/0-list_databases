@@ -1,1 +1,3 @@
- show dbs
+//list all dbs in mongosh
+
+show dbs
