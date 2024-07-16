@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-import pymongo
 """
 This module contain python function
 that inserts a new document in a collection based on Kwargs
 """
+import pymongo
+
 
 def insert_school(mongo_collection, **kwargs):
     """
